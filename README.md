@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Imóveis
 
-Este **Sistema de Cadastro de Imóveis** irá permitir que o usuário gerencie atividades de imóveis comerciais e residenciais. 
+Este **Sistema de Cadastro de Imóveis** tem como objetivo permitir que o usuário gerencie atividades com relação a imóveis comerciais e residenciais. 
 
 ### Funcionalidades
 
